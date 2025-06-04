@@ -13,4 +13,16 @@ This project implements a **custom memory allocator** in C for Windows using `Vi
 
 ---
 
-## 📁 File Structure
+
+---
+
+## 🚀 Getting Started
+
+### 🔨 Compilation (Windows)
+
+Use any C compiler like GCC (via MinGW), or MSVC.
+
+**Using GCC (MinGW):**
+```bash
+gcc main.c -o memory_allocator.exe
+
